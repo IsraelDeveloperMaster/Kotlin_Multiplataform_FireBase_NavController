@@ -94,7 +94,7 @@ class ComponentsMainActivity {
                 //todo lista
                 items(1) {
 
-                    ComponentsFireBase().ListarTodos()
+//                    ComponentsFireBase().ListarTodos()
                 }
             }//LazyColumn
         }

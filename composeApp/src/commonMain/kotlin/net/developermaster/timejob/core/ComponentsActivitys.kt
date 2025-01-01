@@ -19,7 +19,7 @@ class ComponentsActivitys {
 
         ) {
 
-            ComponentsFireBase().Salvar()
+//            ComponentsFireBase().Salvar()
         }
     }
 
@@ -30,7 +30,7 @@ class ComponentsActivitys {
             //todo lista
             items(1) {
 
-                ComponentsFireBase().ListarRelatorio()
+//                ComponentsFireBase().ListarRelatorio()
             }
         }//LazyColumn
     }

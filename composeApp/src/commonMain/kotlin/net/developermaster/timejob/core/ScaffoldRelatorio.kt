@@ -95,7 +95,7 @@ class ScaffoldRelatorio {
                 //todo lista
                 items(1) { item ->
 
-                    ComponentsFireBase().ListarTodos()
+//                    ComponentsFireBase().ListarTodos()
                 }
             }//LazyColumn
         }
